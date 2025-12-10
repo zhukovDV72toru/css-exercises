@@ -1,7 +1,6 @@
 /* Add CSS Styling */
 
-.odd,
-.odd-cool {
+.odd{
     font-family: "Verdana", "DejaVu Sans", sans-serif;
     background-color: rgb(212, 55, 55);
 
